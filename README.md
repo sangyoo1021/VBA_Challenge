@@ -52,9 +52,9 @@ First, tickerIndex was introduced which was set to zero. Then, setting up three 
 ### Images
 Finally, by adding colors to the chart, timer was also created to see how quickly VBA can organize and analyze the data. 
 
-![2017_Stock](https://https://github.com/sangyoo1021/VBA_Challenge/blob/main/Resources/VBA_Challenge_2017.png)
+![2017_Stock](https://github.com/sangyoo1021/VBA_Challenge/blob/main/Resources/VBA_Challenge_2017.png)
 
-![2018_Stock](https://https://github.com/sangyoo1021/VBA_Challenge/blob/main/Resources/VBA_Challenge_2018.png)
+![2018_Stock](https://github.com/sangyoo1021/VBA_Challenge/blob/main/Resources/VBA_Challenge_2018.png)
  
 ## Summary
 
